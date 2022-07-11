@@ -6,7 +6,8 @@ body {
 .header-nav,
 .links,
 h1,
-.button {
+.button,
+.footer {
   color: #f9faf8;
 }
 body,
@@ -29,6 +30,12 @@ body,
   align-items: center;
   margin-top: 20px;
   padding: 20px;
+}
+.footer {
+  background-color: #1f2937;
+  text-align: center;
+  margin: 0 auto;
+  padding: 24px;
 }
 .sign {
   display: flex;
